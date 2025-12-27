@@ -30,7 +30,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/file-organizer.git
+git clone https://github.com/mian-muhammad-ahmad/file-organizer.git
 
 
 C++ Console Version:
